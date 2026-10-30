@@ -2,7 +2,7 @@
 
 A small language for the factory floor. A statement becomes a stock move.
 
-**Author:** Tanmay Vaswani
+**Live:** https://tanmayvasvani.github.io/floor-lang/ · **Author:** Tanmay Vaswani
 
 ```
 PACK 500 OF ZEC-PRO
